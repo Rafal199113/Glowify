@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/Coiny-Regular.ttf",
+      "sha1": "15527ff5b2f029db1fe9adac073393364d4be62e"
+    },
+    {
+      "path": "src/fonts/Coiny.ttf",
+      "sha1": "15527ff5b2f029db1fe9adac073393364d4be62e"
+    }
+  ]
+}
